@@ -38,7 +38,7 @@ footer {
 header nav {
   vertical-align: middle;
   font-size: 1.5em;
-  color: white;
+  color: #ffffff;
   list-style: none;
   width: 100%;
   text-align: center;
@@ -91,7 +91,7 @@ header img {
   }
   .home main section:nth-of-type(2) {
     background: #6b70b4;
-    color: white;
+    color: #ffffff;
     width: 100%;
     height: fit-content;
   }
@@ -107,7 +107,7 @@ header img {
     position: relative;
     text-align: center;
     color: #ffffff;
-    background-color: black; /* Om de foto iets donkerder te maken */
+    background-color: #000000; /* Om de foto iets donkerder te maken */
     z-index: 1; /* Aangezien anders de header verdwijnt onder de foto */
   }
   .home main section:nth-of-type(2) article img {
@@ -135,7 +135,7 @@ header img {
     display: flex;
     align-items: center;
     background: #ed93ab;
-    color: white;
+    color: #ffffff;
     text-align: center;
   }
   .home main section:nth-of-type(3) img {
@@ -157,7 +157,7 @@ header img {
     height: 70vh;
     background: #ec5e35;
     padding-top: 5px;
-    color: white;
+    color: #ffffff;
     text-align: center;
   }
   .home main section:nth-of-type(4) h1 {
@@ -172,13 +172,13 @@ header img {
     border-radius: 2px;
     margin: 5px;
     padding: 15px;
-    background: white;
+    background: #ffffff;
   }
   .home main section:nth-of-type(4) input,
   textarea,
   button:hover {
-    background: black;
-    color: white;
+    background: #000000;
+    color: #ffffff;
     padding: 20px;
     transition: all 250ms ease;
   }
@@ -254,7 +254,7 @@ header img {
   margin-top: 25vh;
   width: 100%;
   text-align: center;
-  color: white;
+  color: #ffffff;
 }
 .shop article {
   height: fit-content;
@@ -265,10 +265,10 @@ header img {
   display: inline-block;
 }
 .shop h1 {
-  color: black;
+  color: #000000;
 }
 .shop h3 {
-  color: black;
+  color: #000000;
 }
 .shop article img {
   width: 15vw;
@@ -283,8 +283,11 @@ header img {
   box-shadow: 2px 2px #000000;
 }
 .shop article button a {
-  color: black;
+  color: #000000;
   text-decoration: none;
+}
+.shop article button a:hover{
+    color: #ffffff;
 }
 @media (max-width: 500px) {
   .shop article {
@@ -305,7 +308,7 @@ header img {
     position: absolute; /* Zodat je geen transparante header hebt die meescrolt */
 }
 .gallerij header a{
-    color: white;
+    color: #ffffff;
 }
 .gallerij main video{
   width:100vw;
@@ -334,7 +337,7 @@ header img {
 }
 .product img {
   width: 25%;
-  background: white;
+  background: #ffffff;
   padding: 30px;
   margin: 15px;
   border-radius: 10px;
@@ -350,14 +353,14 @@ header img {
   width: fit-content;
   font-weight: bolder;
   border-color: #eeeeee;
-  background-color: white;
+  background-color: #ffffff;
   border-radius: 3px;
   box-shadow: 2px 2px #000000;
   margin: 30px 30px 30px 0px;
 }
 .product article button a {
   font-weight: bolder;
-  color: black;
+  color: #000000;
   text-decoration: none;
 }
 @media (max-width: 500px) {
@@ -374,7 +377,7 @@ header img {
 /* DARK MODE */
 @media (prefers-color-scheme: dark) {
   header, footer, .shop article, .product img {
-    background-color: black;
+    background-color: #000000;
   }
   .dark_logo /* Bij dark mode komt de donkere logo tevoorschijn */{
     display: block;
