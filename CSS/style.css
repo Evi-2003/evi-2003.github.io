@@ -306,6 +306,7 @@ header img {
 @media (max-width: 500px) {
   nav ul{
     margin: 0;
+    padding: 0;
   }
   .shop h1{
     margin-top: 35vh;
