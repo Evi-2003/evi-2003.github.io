@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="CSS/style.css">
-    <meta name="theme-color" content="#ea99a2" />
+    <meta name="theme-color" content="#ea99a2">
     <link rel="preconnect" href="https://fonts.googleapis.com"> 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@330;400;500&display=swap" rel="stylesheet">
@@ -16,9 +16,11 @@
         <a href="index.html" class="light_logo"><img src="Afbeeldingen/newwave_logo.png" alt="Logo of NewWave"></a>
         <a href="index.html" class="dark_logo"><img src="Afbeeldingen/newwave_logo_wit.png" alt="Logo of NewWave"></a>
         <nav>
-            <li><a href="index.html">Home </a>  |  </li>
-            <li><a href="shop.html">Shop </a>  |  </li>
-            <li><a href="gallerij.html">Galllery </a></li>
+            <ul>
+                <li><a href="index.html">Home </a>  |  </li>
+                <li><a href="shop.html">Shop </a>  |  </li>
+                <li><a href="gallerij.html">Photo's </a></li>
+             </ul>
         </nav>
     </header>
 
@@ -26,10 +28,11 @@
         <section class="product">
             <img src="Afbeeldingen/new_wave_shirt.png" alt="Witte shirt met het NewWave logo in het midden">
             <article>
-                <h1>New Wave Shirt</h1>
+                <h2>New Wave Shirt</h2>
                 <h3>Een mooie witte shirt met het logo van NewWave</h3>
                 <h2>Kleur: Wit</h2>
-                <label>
+
+                <form>
                     <input type="radio" name="Maat">
                     <span class="checkmark">S</span>
                     <input type="radio" name="Maat">
@@ -40,8 +43,8 @@
                     <span class="checkmark">XL</span>
                     <input type="radio" name="Maat">
                     <span class="checkmark">XXL</span>
-                </label>
-                <button><a href="afrekenen.html">Afrekenen</a></button>
+                </form>
+                <button>Afrekenen</button>
             </article>
         </section>   
     </main>
