@@ -23,6 +23,10 @@ header {
   text-align: center;
   z-index: 2;
 }
+nav ul{
+  margin: 0;
+  padding: 0;
+}
 footer {
   background: #ffffff;
   color: #000000;
@@ -304,10 +308,6 @@ header img {
     color: #000000;
 }
 @media (max-width: 500px) {
-  nav ul{
-    margin: 0;
-    padding: 0;
-  }
   .shop h1{
     margin-top: 35vh;
   }
