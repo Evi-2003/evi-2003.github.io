@@ -1,0 +1,21 @@
+Naam: Evi Wammes
+Studentnummer: 500900152
+Klas: Inkt
+Schooljaar: 1
+
+LINK NAAR LIVE WEBSITE
+https://evi-2003.github.io
+
+BRONVERMELDING
+1. Afbeeldingen voor de gallerij = https://www.instagram.com/p/CiKAh8Koa6t/ & https://www.instagram.com/p/CiJA_6mIQNK/
+2. Teksten voor de home pagina = https://www.womenskatetheworld.com/new-wave
+3. Productafbeeldingen = https://www.womenskatetheworld.com/shop
+4. Achtergrond-homepagina skatepark Nijmegen = https://waalhalla-centrum.nl/wp-content/uploads/2021/07/IMG_0299-scaled.jpg
+5. Achtergrond-homepagina skatepark Amsterdam = https://images.squarespace-cdn.com/content/v1/5d6d3976f8d59d0001105786/1624138074179-ACM0LQWHGBNX20THPAS5/Schermafbeelding+2021-06-19+om+23.25.59.png
+7: Achtergrond-homepagina skatepark Rotterdam = https://storage.pubble.nl/d9f3425a/content/2022/1/f506f2c0-0f91-4383-8cb9-76c9d7d7a569_thumb728.jpg
+8: Hulp bij tekst over een afbeelding = https://www.w3schools.com/howto/howto_css_image_text.asp
+9: Font Open Sans = https://fonts.google.com/specimen/Open+Sans?query=open+sans
+10: Logo New Wave = https://www.womenskatetheworld.com
+11: Video New Wave = https://www.youtube.com/watch?v=xGrEWBRV638&t=138s
+12: Uitzoeken hoe @media werkt voor de darkmode = https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+13: Tips zoeken hoe je de pagina's zo toegankelijk mogelijk maakt
